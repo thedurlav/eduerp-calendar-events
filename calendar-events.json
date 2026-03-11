@@ -1,14 +1,395 @@
 [
   {
-    "externalId": "summer-vacation-2026",
-    "date": "2026-05-20",
+    "externalId": "maa-shakambhari-jayanti-2026",
+    "date": "2026-01-03",
+    "stateCodes": [
+      "CG"
+    ],
     "title": {
-      "english": "Summer Vacation Starts",
-      "hindi": "ग्रीष्मकालीन अवकाश प्रारंभ"
+      "english": "Maa Shakambhari Jayanti",
+      "hindi": "माँ शाकंभरी जयंती"
     },
     "description": {
-      "english": "Summer vacation starts for all classes.",
-      "hindi": "सभी कक्षाओं के लिए ग्रीष्मकालीन अवकाश शुरू होगा।"
+      "english": "State holiday for Maa Shakambhari Jayanti.",
+      "hindi": "माँ शाकंभरी जयंती के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "cherchera-2026",
+    "date": "2026-01-03",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Cherchera",
+      "hindi": "छेरछेरा"
+    },
+    "description": {
+      "english": "State holiday for Cherchera festival.",
+      "hindi": "छेरछेरा पर्व के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "republic-day-2026",
+    "date": "2026-01-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Republic Day",
+      "hindi": "गणतंत्र दिवस"
+    },
+    "description": {
+      "english": "National holiday for Republic Day.",
+      "hindi": "गणतंत्र दिवस के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "maha-shivaratri-2026",
+    "date": "2026-02-15",
+    "stateCodes": [],
+    "title": {
+      "english": "Maha Shivaratri",
+      "hindi": "महाशिवरात्रि"
+    },
+    "description": {
+      "english": "National holiday for Maha Shivaratri.",
+      "hindi": "महाशिवरात्रि के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "holi-2026",
+    "date": "2026-03-04",
+    "stateCodes": [],
+    "title": {
+      "english": "Holi",
+      "hindi": "होली"
+    },
+    "description": {
+      "english": "National holiday for Holi.",
+      "hindi": "होली के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "bhakt-mata-karma-jayanti-2026",
+    "date": "2026-03-15",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Bhakt Mata Karma Jayanti",
+      "hindi": "भक्त माता कर्मा जयंती"
+    },
+    "description": {
+      "english": "State holiday for Bhakt Mata Karma Jayanti.",
+      "hindi": "भक्त माता कर्मा जयंती के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "eid-ul-fitr-2026",
+    "date": "2026-03-21",
+    "stateCodes": [],
+    "title": {
+      "english": "Eid-ul-Fitr",
+      "hindi": "ईद-उल-फितर"
+    },
+    "description": {
+      "english": "National holiday for Eid-ul-Fitr.",
+      "hindi": "ईद-उल-फितर के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "ram-navami-2026",
+    "date": "2026-03-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Ram Navami",
+      "hindi": "रामनवमी"
+    },
+    "description": {
+      "english": "National holiday for Ram Navami.",
+      "hindi": "रामनवमी के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "mahavir-jayanti-2026",
+    "date": "2026-03-31",
+    "stateCodes": [],
+    "title": {
+      "english": "Mahavir Jayanti",
+      "hindi": "महावीर जयंती"
+    },
+    "description": {
+      "english": "National holiday for Mahavir Jayanti.",
+      "hindi": "महावीर जयंती के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "good-friday-2026",
+    "date": "2026-04-03",
+    "stateCodes": [],
+    "title": {
+      "english": "Good Friday",
+      "hindi": "गुड फ्राइडे"
+    },
+    "description": {
+      "english": "National holiday for Good Friday.",
+      "hindi": "गुड फ्राइडे के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "dr-ambedkar-jayanti-2026",
+    "date": "2026-04-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Dr. Ambedkar Jayanti",
+      "hindi": "डॉ. अंबेडकर जयंती"
+    },
+    "description": {
+      "english": "National holiday for Dr. Ambedkar Jayanti.",
+      "hindi": "डॉ. अंबेडकर जयंती के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "buddha-purnima-2026",
+    "date": "2026-05-01",
+    "stateCodes": [],
+    "title": {
+      "english": "Buddha Purnima",
+      "hindi": "बुद्ध पूर्णिमा"
+    },
+    "description": {
+      "english": "National holiday for Buddha Purnima.",
+      "hindi": "बुद्ध पूर्णिमा के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "eid-ul-zuha-2026",
+    "date": "2026-05-27",
+    "stateCodes": [],
+    "title": {
+      "english": "Eid-ul-Zuha (Bakrid)",
+      "hindi": "ईद-उल-जुहा (बकरीद)"
+    },
+    "description": {
+      "english": "National holiday for Eid-ul-Zuha.",
+      "hindi": "ईद-उल-जुहा के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "muharram-2026",
+    "date": "2026-06-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Muharram",
+      "hindi": "मोहर्रम"
+    },
+    "description": {
+      "english": "National holiday for Muharram.",
+      "hindi": "मोहर्रम के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "kabir-jayanti-2026",
+    "date": "2026-06-29",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Kabir Jayanti",
+      "hindi": "कबीर जयंती"
+    },
+    "description": {
+      "english": "State holiday for Kabir Jayanti.",
+      "hindi": "कबीर जयंती के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "world-tribal-day-2026",
+    "date": "2026-08-09",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "World Tribal Day",
+      "hindi": "विश्व आदिवासी दिवस"
+    },
+    "description": {
+      "english": "State holiday for World Tribal Day.",
+      "hindi": "विश्व आदिवासी दिवस के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "hareli-2026",
+    "date": "2026-08-12",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Hareli",
+      "hindi": "हरेली"
+    },
+    "description": {
+      "english": "State holiday for Hareli festival.",
+      "hindi": "हरेली पर्व के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "independence-day-2026",
+    "date": "2026-08-15",
+    "stateCodes": [],
+    "title": {
+      "english": "Independence Day",
+      "hindi": "स्वतंत्रता दिवस"
+    },
+    "description": {
+      "english": "National holiday for Independence Day.",
+      "hindi": "स्वतंत्रता दिवस के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "eid-e-milad-2026",
+    "date": "2026-08-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Eid-e-Milad (Milad-un-Nabi)",
+      "hindi": "ईद-ए-मिलाद (मिलाद-उन-नबी)"
+    },
+    "description": {
+      "english": "National holiday for Eid-e-Milad.",
+      "hindi": "ईद-ए-मिलाद के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "raksha-bandhan-2026",
+    "date": "2026-08-28",
+    "stateCodes": [],
+    "title": {
+      "english": "Raksha Bandhan",
+      "hindi": "रक्षाबंधन"
+    },
+    "description": {
+      "english": "National holiday for Raksha Bandhan.",
+      "hindi": "रक्षाबंधन के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "krishna-janmashtami-2026",
+    "date": "2026-09-04",
+    "stateCodes": [],
+    "title": {
+      "english": "Krishna Janmashtami",
+      "hindi": "कृष्ण जन्माष्टमी"
+    },
+    "description": {
+      "english": "National holiday for Krishna Janmashtami.",
+      "hindi": "कृष्ण जन्माष्टमी के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "haritalika-teej-2026",
+    "date": "2026-09-14",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Haritalika (Teej Parv)",
+      "hindi": "हरितालिका (तीज पर्व)"
+    },
+    "description": {
+      "english": "State holiday for Haritalika Teej.",
+      "hindi": "हरितालिका तीज पर्व के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "gandhi-jayanti-2026",
+    "date": "2026-10-02",
+    "stateCodes": [],
+    "title": {
+      "english": "Mahatma Gandhi's Birthday",
+      "hindi": "महात्मा गाँधी का जन्मदिवस"
+    },
+    "description": {
+      "english": "National holiday for Mahatma Gandhi's Birthday.",
+      "hindi": "महात्मा गाँधी के जन्मदिवस के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "dussehra-2026",
+    "date": "2026-10-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Dussehra (Vijayadashami)",
+      "hindi": "दशहरा (विजयादशमी)"
+    },
+    "description": {
+      "english": "National holiday for Dussehra.",
+      "hindi": "दशहरा के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "diwali-2026",
+    "date": "2026-11-08",
+    "stateCodes": [],
+    "title": {
+      "english": "Diwali (Deepawali)",
+      "hindi": "दीवाली (दीपावली)"
+    },
+    "description": {
+      "english": "National holiday for Diwali.",
+      "hindi": "दीवाली के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "chhath-puja-2026",
+    "date": "2026-11-15",
+    "stateCodes": [],
+    "title": {
+      "english": "Chhath Puja",
+      "hindi": "छठ पूजा"
+    },
+    "description": {
+      "english": "National holiday for Chhath Puja.",
+      "hindi": "छठ पूजा के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "guru-nanak-jayanti-2026",
+    "date": "2026-11-24",
+    "stateCodes": [],
+    "title": {
+      "english": "Guru Nanak's Birthday",
+      "hindi": "गुरूनानक जन्म दिवस"
+    },
+    "description": {
+      "english": "National holiday for Guru Nanak's Birthday.",
+      "hindi": "गुरूनानक जी के जन्म दिवस के अवसर पर राष्ट्रीय अवकाश।"
+    }
+  },
+  {
+    "externalId": "guru-ghasidas-jayanti-2026",
+    "date": "2026-12-18",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Guru Ghasidas Jayanti",
+      "hindi": "गुरु घासीदास जयंती"
+    },
+    "description": {
+      "english": "State holiday for Guru Ghasidas Jayanti.",
+      "hindi": "गुरु घासीदास जयंती के अवसर पर राज्य अवकाश।"
+    }
+  },
+  {
+    "externalId": "christmas-day-2026",
+    "date": "2026-12-25",
+    "stateCodes": [],
+    "title": {
+      "english": "Christmas Day",
+      "hindi": "क्रिसमस दिवस"
+    },
+    "description": {
+      "english": "National holiday for Christmas Day.",
+      "hindi": "क्रिसमस दिवस के अवसर पर राष्ट्रीय अवकाश।"
     }
   }
 ]
