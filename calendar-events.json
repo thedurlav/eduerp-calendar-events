@@ -391,5 +391,914 @@
       "english": "National holiday for Christmas Day.",
       "hindi": "क्रिसमस दिवस के अवसर पर राष्ट्रीय अवकाश।"
     }
+  },
+  {
+    "externalId": "new-years-day-2026",
+    "date": "2026-01-01",
+    "stateCodes": [],
+    "title": {
+      "english": "New Year's Day",
+      "hindi": "नववर्ष दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for New Year's Day.",
+      "hindi": "नववर्ष दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "mata-savitribai-phule-jayanti-2026",
+    "date": "2026-01-03",
+    "stateCodes": [],
+    "title": {
+      "english": "Mata Savitribai Phule Jayanti",
+      "hindi": "माता सावित्री बाई फुले जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Mata Savitribai Phule Jayanti.",
+      "hindi": "माता सावित्री बाई फुले जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "cherchera-putri-2026",
+    "date": "2026-01-03",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Cherchera Putri",
+      "hindi": "छेरछेरा पुत्री"
+    },
+    "description": {
+      "english": "Optional state holiday for Cherchera Putri.",
+      "hindi": "छेरछेरा पुत्री के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "mata-shakambhari-jayanti-optional-2026",
+    "date": "2026-01-03",
+    "stateCodes": [],
+    "title": {
+      "english": "Mata Shakambhari Jayanti",
+      "hindi": "माता शाकंभरी जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Mata Shakambhari Jayanti.",
+      "hindi": "माता शाकंभरी जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "hazrat-alis-birthday-2026",
+    "date": "2026-01-03",
+    "stateCodes": [],
+    "title": {
+      "english": "Hazrat Ali's Birthday",
+      "hindi": "हजरत अली का जन्म दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Hazrat Ali's Birthday.",
+      "hindi": "हजरत अली के जन्म दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "louis-brailles-birthday-2026",
+    "date": "2026-01-04",
+    "stateCodes": [],
+    "title": {
+      "english": "Louis Braille's Birthday",
+      "hindi": "लुई ब्रेल का जन्मदिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Louis Braille's Birthday.",
+      "hindi": "लुई ब्रेल के जन्मदिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "rajim-bhaktin-mata-jayanti-2026",
+    "date": "2026-01-07",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Rajim Bhaktin Mata Jayanti",
+      "hindi": "राजिम भक्तिन माता जयंती"
+    },
+    "description": {
+      "english": "Optional state holiday for Rajim Bhaktin Mata Jayanti.",
+      "hindi": "राजिम भक्तिन माता जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "world-hindi-day-2026",
+    "date": "2026-01-10",
+    "stateCodes": [],
+    "title": {
+      "english": "World Hindi Day",
+      "hindi": "विश्व हिन्दी दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for World Hindi Day.",
+      "hindi": "विश्व हिन्दी दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "makar-sankranti-2026",
+    "date": "2026-01-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Makar Sankranti",
+      "hindi": "मकर संक्रांति"
+    },
+    "description": {
+      "english": "Optional holiday for Makar Sankranti.",
+      "hindi": "मकर संक्रांति के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "pongal-2026",
+    "date": "2026-01-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Pongal",
+      "hindi": "पोंगल"
+    },
+    "description": {
+      "english": "Optional holiday for Pongal.",
+      "hindi": "पोंगल के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "shaheed-gendsingh-martyrdom-day-2026",
+    "date": "2026-01-20",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Shaheed Gend Singh Martyrdom Day",
+      "hindi": "शहीद गैंदसिंह शहादत दिवस"
+    },
+    "description": {
+      "english": "Optional state holiday for Shaheed Gend Singh Martyrdom Day.",
+      "hindi": "शहीद गैंदसिंह शहादत दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "netaji-subhash-chandra-bose-jayanti-2026",
+    "date": "2026-01-23",
+    "stateCodes": [],
+    "title": {
+      "english": "Netaji Subhash Chandra Bose Jayanti",
+      "hindi": "नेताजी सुभाषचंद्र बोस जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Netaji Subhash Chandra Bose Jayanti.",
+      "hindi": "नेताजी सुभाषचंद्र बोस जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "basant-panchami-2026",
+    "date": "2026-01-23",
+    "stateCodes": [],
+    "title": {
+      "english": "Basant Panchami",
+      "hindi": "बसंत पंचमी"
+    },
+    "description": {
+      "english": "Optional holiday for Basant Panchami.",
+      "hindi": "बसंत पंचमी के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "parmeshwari-jayanti-2026",
+    "date": "2026-01-23",
+    "stateCodes": [],
+    "title": {
+      "english": "Parmeshwari Jayanti",
+      "hindi": "परमेश्वरी जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Parmeshwari Jayanti.",
+      "hindi": "परमेश्वरी जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "rajim-mela-magh-purnima-2026",
+    "date": "2026-02-01",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Rajim Mela Magh Purnima",
+      "hindi": "राजिम मेला माघ पूर्णिमा"
+    },
+    "description": {
+      "english": "Optional state holiday for Rajim Mela Magh Purnima.",
+      "hindi": "राजिम मेला माघ पूर्णिमा के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "sant-ravidas-jayanti-2026",
+    "date": "2026-02-01",
+    "stateCodes": [],
+    "title": {
+      "english": "Sant Ravidas Jayanti",
+      "hindi": "संत रविदास जन्म दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Sant Ravidas Jayanti.",
+      "hindi": "संत रविदास जन्म दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "shab-e-barat-2026",
+    "date": "2026-02-03",
+    "stateCodes": [],
+    "title": {
+      "english": "Shab-e-Barat",
+      "hindi": "शब-ए-बारात"
+    },
+    "description": {
+      "english": "Optional holiday for Shab-e-Barat.",
+      "hindi": "शब-ए-बारात के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "maharishi-dayanand-saraswati-jayanti-2026",
+    "date": "2026-02-12",
+    "stateCodes": [],
+    "title": {
+      "english": "Maharishi Dayanand Saraswati Jayanti",
+      "hindi": "महर्षि दयानंद सरस्वती जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Maharishi Dayanand Saraswati Jayanti.",
+      "hindi": "महर्षि दयानंद सरस्वती जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "chhatrapati-shivaji-jayanti-2026",
+    "date": "2026-02-19",
+    "stateCodes": [],
+    "title": {
+      "english": "Chhatrapati Shivaji Jayanti",
+      "hindi": "छत्रपति शिवाजी जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Chhatrapati Shivaji Jayanti.",
+      "hindi": "छत्रपति शिवाजी जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "holi-holika-dahan-2026",
+    "date": "2026-03-03",
+    "stateCodes": [],
+    "title": {
+      "english": "Holi (Holika Dahan)",
+      "hindi": "होली (होलिका दहन)"
+    },
+    "description": {
+      "english": "Optional holiday for Holika Dahan.",
+      "hindi": "होलिका दहन के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "bhai-dooj-holi-2026",
+    "date": "2026-03-05",
+    "stateCodes": [],
+    "title": {
+      "english": "Bhai Dooj (Holi)",
+      "hindi": "भाई दूज (होली)"
+    },
+    "description": {
+      "english": "Optional holiday for Bhai Dooj following Holi.",
+      "hindi": "भाई दूज (होली) के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "rang-panchami-2026",
+    "date": "2026-03-08",
+    "stateCodes": [],
+    "title": {
+      "english": "Rang Panchami",
+      "hindi": "रंगपंचमी"
+    },
+    "description": {
+      "english": "Optional holiday for Rang Panchami.",
+      "hindi": "रंगपंचमी के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "gudi-padwa-2026",
+    "date": "2026-03-19",
+    "stateCodes": [],
+    "title": {
+      "english": "Gudi Padwa",
+      "hindi": "गुड़ी पाड़वा"
+    },
+    "description": {
+      "english": "Optional holiday for Gudi Padwa.",
+      "hindi": "गुड़ी पाड़वा के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "cheti-chand-2026",
+    "date": "2026-03-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Cheti Chand",
+      "hindi": "चैट्रीचण्ड"
+    },
+    "description": {
+      "english": "Optional holiday for Cheti Chand.",
+      "hindi": "चैट्रीचण्ड के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "veerangana-avantibai-martyrdom-day-2026",
+    "date": "2026-03-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Veerangana Avantibai's Martyrdom Day",
+      "hindi": "वीरांगना अवंतिबाई का बलिदान दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Veerangana Avantibai's Martyrdom Day.",
+      "hindi": "वीरांगना अवंतिबाई के बलिदान दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "jamat-ul-vida-2026",
+    "date": "2026-03-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Jamat-ul-Vida",
+      "hindi": "जमात-उल-विदा"
+    },
+    "description": {
+      "english": "Optional holiday for Jamat-ul-Vida.",
+      "hindi": "जमात-उल-विदा के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "guha-nishadraj-jayanti-2026",
+    "date": "2026-03-23",
+    "stateCodes": [],
+    "title": {
+      "english": "Guha Nishadraj Jayanti",
+      "hindi": "गुहा निषादराज जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Guha Nishadraj Jayanti.",
+      "hindi": "गुहा निषादराज जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "hatkeshwar-jayanti-2026",
+    "date": "2026-04-01",
+    "stateCodes": [],
+    "title": {
+      "english": "Hatkeshwar Jayanti",
+      "hindi": "हाटकेश्वर जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Hatkeshwar Jayanti.",
+      "hindi": "हाटकेश्वर जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dharti-puja-khaddi-parv-2026",
+    "date": "2026-04-02",
+    "stateCodes": [],
+    "title": {
+      "english": "Dharti Puja (Khaddi Parv)",
+      "hindi": "धरती पूजा (खद्दी पर्व)"
+    },
+    "description": {
+      "english": "Optional holiday for Dharti Puja (Khaddi Parv).",
+      "hindi": "धरती पूजा (खद्दी पर्व) के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "shrimad-vallabhacharya-jayanti-2026",
+    "date": "2026-04-13",
+    "stateCodes": [],
+    "title": {
+      "english": "Shrimad Vallabhacharya Jayanti",
+      "hindi": "श्रीमद् वल्लभाचार्य जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Shrimad Vallabhacharya Jayanti.",
+      "hindi": "श्रीमद् वल्लभाचार्य जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "vaisakhi-2026",
+    "date": "2026-04-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Vaisakhi",
+      "hindi": "वैशाखी"
+    },
+    "description": {
+      "english": "Optional holiday for Vaisakhi.",
+      "hindi": "वैशाखी के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "sen-jayanti-2026",
+    "date": "2026-04-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Sen Jayanti",
+      "hindi": "सेन जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Sen Jayanti.",
+      "hindi": "सेन जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "parshuram-jayanti-2026",
+    "date": "2026-04-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Parshuram Jayanti",
+      "hindi": "परशुराम जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Parshuram Jayanti.",
+      "hindi": "परशुराम जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "shankaracharya-jayanti-2026",
+    "date": "2026-04-22",
+    "stateCodes": [],
+    "title": {
+      "english": "Shankaracharya Jayanti",
+      "hindi": "शंकराचार्य जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Shankaracharya Jayanti.",
+      "hindi": "शंकराचार्य जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "chhatrasal-jayanti-2026",
+    "date": "2026-06-17",
+    "stateCodes": [],
+    "title": {
+      "english": "Chhatrasal Jayanti",
+      "hindi": "छत्रसाल जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Chhatrasal Jayanti.",
+      "hindi": "छत्रसाल जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "maharana-pratap-jayanti-2026",
+    "date": "2026-06-17",
+    "stateCodes": [],
+    "title": {
+      "english": "Maharana Pratap Jayanti",
+      "hindi": "महाराणा प्रताप जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Maharana Pratap Jayanti.",
+      "hindi": "महाराणा प्रताप जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "mahesh-navami-2026",
+    "date": "2026-06-23",
+    "stateCodes": [],
+    "title": {
+      "english": "Mahesh Navami (Jyeshtha Shukla-9)",
+      "hindi": "महेश नवमीं (ज्येष्ठ शुक्ल-9)"
+    },
+    "description": {
+      "english": "Optional holiday for Mahesh Navami.",
+      "hindi": "महेश नवमीं के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "veerangana-durgavati-martyrdom-day-2026",
+    "date": "2026-06-24",
+    "stateCodes": [],
+    "title": {
+      "english": "Veerangana Durgavati Martyrdom Day",
+      "hindi": "वीरांगना दुर्गावती बलिदान दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Veerangana Durgavati's Martyrdom Day.",
+      "hindi": "वीरांगना दुर्गावती बलिदान दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "rath-yatra-2026",
+    "date": "2026-07-16",
+    "stateCodes": [],
+    "title": {
+      "english": "Rath Yatra",
+      "hindi": "रथयात्रा"
+    },
+    "description": {
+      "english": "Optional holiday for Rath Yatra.",
+      "hindi": "रथयात्रा के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dr-khoobchand-baghel-birthday-2026",
+    "date": "2026-07-19",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Dr. Khoobchand Baghel's Birthday",
+      "hindi": "डॉ. खूबचंद बघेल का जन्म दिवस"
+    },
+    "description": {
+      "english": "Optional state holiday for Dr. Khoobchand Baghel's Birthday.",
+      "hindi": "डॉ. खूबचंद बघेल के जन्म दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "parsi-new-year-2026",
+    "date": "2026-08-15",
+    "stateCodes": [],
+    "title": {
+      "english": "Parsi New Year",
+      "hindi": "पारसी नववर्ष"
+    },
+    "description": {
+      "english": "Optional holiday for Parsi New Year.",
+      "hindi": "पारसी नववर्ष के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "nag-panchami-2026",
+    "date": "2026-08-17",
+    "stateCodes": [],
+    "title": {
+      "english": "Nag Panchami",
+      "hindi": "नाग पंचमी"
+    },
+    "description": {
+      "english": "Optional holiday for Nag Panchami.",
+      "hindi": "नाग पंचमी के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "onam-2026",
+    "date": "2026-08-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Onam",
+      "hindi": "ओणम"
+    },
+    "description": {
+      "english": "Optional holiday for Onam.",
+      "hindi": "ओणम के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "harchhath-2026",
+    "date": "2026-09-02",
+    "stateCodes": [],
+    "title": {
+      "english": "Harchhath",
+      "hindi": "हरछठ"
+    },
+    "description": {
+      "english": "Optional holiday for Harchhath.",
+      "hindi": "हरछठ के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "pola-2026",
+    "date": "2026-09-10",
+    "stateCodes": [],
+    "title": {
+      "english": "Pola",
+      "hindi": "पोला"
+    },
+    "description": {
+      "english": "Optional holiday for Pola.",
+      "hindi": "पोला के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "ganesh-chaturthi-2026",
+    "date": "2026-09-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Ganesh Chaturthi",
+      "hindi": "गणेश चतुर्थी"
+    },
+    "description": {
+      "english": "Optional holiday for Ganesh Chaturthi.",
+      "hindi": "गणेश चतुर्थी के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "vishwakarma-jayanti-2026",
+    "date": "2026-09-17",
+    "stateCodes": [],
+    "title": {
+      "english": "Vishwakarma Jayanti",
+      "hindi": "विश्वकर्मा जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Vishwakarma Jayanti.",
+      "hindi": "विश्वकर्मा जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "navakhai-2026",
+    "date": "2026-09-18",
+    "stateCodes": [],
+    "title": {
+      "english": "Navakhai",
+      "hindi": "नवाखाई"
+    },
+    "description": {
+      "english": "Optional holiday for Navakhai.",
+      "hindi": "नवाखाई के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dhol-gyaras-2026",
+    "date": "2026-09-22",
+    "stateCodes": [],
+    "title": {
+      "english": "Dhol Gyaras",
+      "hindi": "ढोल ग्यारस"
+    },
+    "description": {
+      "english": "Optional holiday for Dhol Gyaras.",
+      "hindi": "ढोल ग्यारस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "anant-chaturdashi-2026",
+    "date": "2026-09-25",
+    "stateCodes": [],
+    "title": {
+      "english": "Anant Chaturdashi",
+      "hindi": "अनंत चतुर्दशी"
+    },
+    "description": {
+      "english": "Optional holiday for Anant Chaturdashi.",
+      "hindi": "अनंत चतुर्दशी के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dr-syedna-sahibji-birthday-2026",
+    "date": "2026-10-01",
+    "stateCodes": [],
+    "title": {
+      "english": "Dr. Syedna Sahibji's Birthday",
+      "hindi": "डॉ. सैय्यदना साहब जी जन्मदिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Dr. Syedna Sahibji's Birthday.",
+      "hindi": "डॉ. सैय्यदना साहब जी के जन्मदिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "prannath-jayanti-2026",
+    "date": "2026-10-09",
+    "stateCodes": [],
+    "title": {
+      "english": "Prannath Jayanti",
+      "hindi": "प्राणनाथ जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Prannath Jayanti.",
+      "hindi": "प्राणनाथ जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "sarva-pitru-moksha-amavasya-2026",
+    "date": "2026-10-10",
+    "stateCodes": [],
+    "title": {
+      "english": "Sarva Pitru Moksha Amavasya",
+      "hindi": "सर्व पितृमोक्ष अमावस्या"
+    },
+    "description": {
+      "english": "Optional holiday for Sarva Pitru Moksha Amavasya.",
+      "hindi": "सर्व पितृमोक्ष अमावस्या के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "agrasen-jayanti-2026",
+    "date": "2026-10-11",
+    "stateCodes": [],
+    "title": {
+      "english": "Agrasen Jayanti",
+      "hindi": "अग्रसेन जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Agrasen Jayanti.",
+      "hindi": "अग्रसेन जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dussehra-maha-ashtami-2026",
+    "date": "2026-10-19",
+    "stateCodes": [],
+    "title": {
+      "english": "Dussehra (Maha Ashtami)",
+      "hindi": "दशहरा (महाअष्टमी)"
+    },
+    "description": {
+      "english": "Optional holiday for Dussehra Maha Ashtami.",
+      "hindi": "दशहरा (महाअष्टमी) के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dussehra-maha-navami-2026",
+    "date": "2026-10-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Dussehra (Maha Navami)",
+      "hindi": "दशहरा (महानवमी)"
+    },
+    "description": {
+      "english": "Optional holiday for Dussehra Maha Navami.",
+      "hindi": "दशहरा (महानवमी) के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "maharishi-valmiki-jayanti-2026",
+    "date": "2026-10-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Maharishi Valmiki Jayanti",
+      "hindi": "महर्षि वाल्मीकि जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Maharishi Valmiki Jayanti.",
+      "hindi": "महर्षि वाल्मीकि जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "maharaja-ajmodh-dev-jayanti-2026",
+    "date": "2026-10-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Maharaja Ajmodh Dev Jayanti",
+      "hindi": "महाराजा अजमोढ़ देव जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Maharaja Ajmodh Dev Jayanti.",
+      "hindi": "महाराजा अजमोढ़ देव जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "tekchand-ji-maharaj-samadhi-utsav-2026",
+    "date": "2026-10-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Tekchand Ji Maharaj's Samadhi Utsav",
+      "hindi": "टेकचन्द जी महाराज का समाधि उत्सव"
+    },
+    "description": {
+      "english": "Optional holiday for Tekchand Ji Maharaj's Samadhi Utsav.",
+      "hindi": "टेकचन्द जी महाराज के समाधि उत्सव के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "kuwar-purnima-karam-parab-2026",
+    "date": "2026-10-26",
+    "stateCodes": [],
+    "title": {
+      "english": "Kuwar Purnima 'Karam Parab' (Festival)",
+      "hindi": "कुवॉर पूर्णिमा \"करम परब\" (त्यौहार)"
+    },
+    "description": {
+      "english": "Optional holiday for Kuwar Purnima 'Karam Parab'.",
+      "hindi": "कुवॉर पूर्णिमा \"करम परब\" के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "karva-chauth-vrat-2026",
+    "date": "2026-10-29",
+    "stateCodes": [],
+    "title": {
+      "english": "Karva Chauth Vrat",
+      "hindi": "करवाचौथ व्रत"
+    },
+    "description": {
+      "english": "Optional holiday for Karva Chauth Vrat.",
+      "hindi": "करवाचौथ व्रत के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "diwali-south-indian-2026",
+    "date": "2026-11-07",
+    "stateCodes": [],
+    "title": {
+      "english": "Diwali (South Indian)",
+      "hindi": "दीपावली (दक्षिण भारतीय)"
+    },
+    "description": {
+      "english": "Optional holiday for South Indian Diwali.",
+      "hindi": "दक्षिण भारतीय दीपावली के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "govardhan-puja-2026",
+    "date": "2026-11-09",
+    "stateCodes": [],
+    "title": {
+      "english": "Day After Diwali (Govardhan Puja)",
+      "hindi": "दीपावली का दूसरा दिन (गोवर्धन पूजा)"
+    },
+    "description": {
+      "english": "Optional holiday for Govardhan Puja.",
+      "hindi": "गोवर्धन पूजा के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "bhai-dooj-diwali-2026",
+    "date": "2026-11-11",
+    "stateCodes": [],
+    "title": {
+      "english": "Bhai Dooj (Diwali)",
+      "hindi": "भाई दूज (दीपावली)"
+    },
+    "description": {
+      "english": "Optional holiday for Bhai Dooj following Diwali.",
+      "hindi": "भाई दूज (दीपावली) के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "bhagwan-sahastrabahu-jayanti-2026",
+    "date": "2026-11-16",
+    "stateCodes": [],
+    "title": {
+      "english": "Bhagwan Sahastrabahu Jayanti",
+      "hindi": "भगवान सहस्त्रबाहु जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Bhagwan Sahastrabahu Jayanti.",
+      "hindi": "भगवान सहस्त्रबाहु जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "namdev-jayanti-2026",
+    "date": "2026-11-20",
+    "stateCodes": [],
+    "title": {
+      "english": "Namdev Jayanti",
+      "hindi": "नामदेव जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Namdev Jayanti.",
+      "hindi": "नामदेव जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "shaheed-veer-narayan-singh-martyrdom-day-2026",
+    "date": "2026-12-10",
+    "stateCodes": [
+      "CG"
+    ],
+    "title": {
+      "english": "Shaheed Veer Narayan Singh Martyrdom Day",
+      "hindi": "शहीद वीरनारायण सिंह बलिदान दिवस"
+    },
+    "description": {
+      "english": "Optional state holiday for Shaheed Veer Narayan Singh Martyrdom Day.",
+      "hindi": "शहीद वीरनारायण सिंह बलिदान दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "guru-tegh-bahadur-martyrdom-day-2026",
+    "date": "2026-12-14",
+    "stateCodes": [],
+    "title": {
+      "english": "Guru Tegh Bahadur's Martyrdom Day",
+      "hindi": "गुरू तेगबहादुर का शहीदी दिवस"
+    },
+    "description": {
+      "english": "Optional holiday for Guru Tegh Bahadur's Martyrdom Day.",
+      "hindi": "गुरू तेगबहादुर के शहीदी दिवस के अवसर पर ऐच्छिक अवकाश।"
+    }
+  },
+  {
+    "externalId": "dattatreya-jayanti-2026",
+    "date": "2026-12-23",
+    "stateCodes": [],
+    "title": {
+      "english": "Dattatreya Jayanti",
+      "hindi": "दत्तात्रैय जयंती"
+    },
+    "description": {
+      "english": "Optional holiday for Dattatreya Jayanti.",
+      "hindi": "दत्तात्रैय जयंती के अवसर पर ऐच्छिक अवकाश।"
+    }
   }
 ]
